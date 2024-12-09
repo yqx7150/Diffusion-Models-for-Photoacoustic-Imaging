@@ -36,7 +36,22 @@ Diffusion Models for Photoacoustic tomography Imaging and Photoacoustic microsco
   * Effect of center frequency and bandwidth of ultrasonic transducer on photoacoustic tomography based on virtual PAT  
  [<font size=5>**[Paper]**</font>](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12745/127450J/Effect-of-center-frequency-and-bandwidth-of-ultrasonic-transducer-on/10.1117/12.2683131.short)
 
- 
+ ## learning from Image Domain
+  * Sparse-view reconstruction for photoacoustic tomography combining diffusion model with model-based iteration  
+ [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S2213597923001118)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PAT-Diffusion)
+
+  * Score-based generative model-assisted information compensation for high-quality limited-view reconstruction in photoacoustic tomography  
+ [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S2213597924000405)
+
+  * Generative model for limited-view photoacoustic tomography reconstruction  
+ [<font size=5>**[Paper]**</font>](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12972/129720A/Generative-model-for-limited-view-photoacoustic-tomography-reconstruction/10.1117/12.3022605.short)
+
+ ## learning from Projection Domain
+  * Multiple diffusion models-enhanced extremely limited-view reconstruction strategy for photoacoustic tomography boosted by multi-scale priors  
+ [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S2213597924000636)
+
+  * Ultra-sparse reconstruction for photoacoustic tomography: sinogram domain prior-guided method exploiting enhanced score-based diffusion model  
+ [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S2213597924000879) 
 
 # Diffusion Models for Photoacoustic microscopy imaging
 ## Related work summary
