@@ -40,10 +40,10 @@ Diffusion Models for Photoacoustic tomography Imaging and Photoacoustic microsco
   * Sparse-view reconstruction for photoacoustic tomography combining diffusion model with model-based iteration  
  [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S2213597923001118)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PAT-Diffusion)
 
-   Forward and reverse processes of diffusion model.
+                                          Forward and reverse processes of diffusion model.
 <div align="center"><img src="https://github.com/yqx7150/PAT-Diffusion/blob/main/fig1.png"> </div>
 
-   Sparse reconstruction flowchart of PAT.
+                                          Sparse reconstruction flowchart of PAT.
 <div align="center"><img src="https://github.com/yqx7150/PAT-Diffusion/blob/main/fig2.png"> </div>
 
   * Score-based generative model-assisted information compensation for high-quality limited-view reconstruction in photoacoustic tomography  
